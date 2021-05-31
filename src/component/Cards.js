@@ -21,7 +21,7 @@ function Cards() {
               text='THE NCR CAFE'
               ratings='🌟 4.5 Rating'
               label='N-Indain,Chinese,Indian'
-              path='/cart'
+              path='/product'
             />
           </ul>
           <ul className='cards__items'>
@@ -30,21 +30,21 @@ function Cards() {
               text='BIRIYANI BLUES'
               ratings='🌟 3.5 Rating'           
               label='Hyderabadi,Lucknowi'
-              path='/test'
+              path='/product'
             />
             <CardItem
               src='images/7.jpg'
               text='BHUKKAD CHOUPAL'
               ratings='🌟 4.7 Rating'            
               label='Chinese,Mughlai'
-              path='/products'
+              path='/product'
             />
             <CardItem
               src='images/8.jpg'
               text='MAGADH FLAVOUR'
               ratings='🌟 3.9 Rating'
               label='Mughlai,Chinese'
-              path='/products'
+              path='/product'
             />
           </ul>
         </div>
